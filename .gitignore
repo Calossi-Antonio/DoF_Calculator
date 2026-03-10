@@ -1,0 +1,8 @@
+# File temporanei di Office
+~$*
+.~lock.*
+*.tmp
+
+# File di backup e recupero
+*.bak
+*.xlk
